@@ -1,1 +1,1 @@
-iam arwaa
+print (1)
