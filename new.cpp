@@ -1,4 +1,7 @@
-int sum1(int a, int b)
+
+int sum2(int a, int b)
+
+
 int main()
 {
 	string name;
@@ -6,7 +9,9 @@ int main()
 	cin >> name;
 	cout << "HI" << name;
 }
-int sum1(int a, int b)
+
+int sum2(int a, int b)
+
 {
 return a+b;
 }
